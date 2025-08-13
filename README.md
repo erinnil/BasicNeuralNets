@@ -1,9 +1,4 @@
-# BasicNeuralNets
-Here’s a **README** and **description** for your code that explains what it does, how it works, and how to run it.
-
----
-
-## README — Fashion MNIST Neural Network Classifier
+# Fashion MNIST Neural Network Classifier
 
 ### 📌 Description
 
